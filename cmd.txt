@@ -1,0 +1,3 @@
+docker exec -it <nameContainer> /bin/sh
+docker run -it <name> bash
+docker run -it tensorflow/tensorflow bash
