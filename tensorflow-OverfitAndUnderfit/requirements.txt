@@ -1,0 +1,9 @@
+tensorflow
+tensorflow-gpu
+tensorflow-cpu
+tensorflow-hub
+tfds-nightly
+numpy
+matplotlib
+seaborn
+git+https://github.com/tensorflow/docs

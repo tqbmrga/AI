@@ -1,0 +1,9 @@
+tensorflow
+tensorflow-gpu
+tensorflow-cpu
+tensorflow-hub
+tfds-nightly
+tf-nightly
+keras
+numpy
+matplotlib

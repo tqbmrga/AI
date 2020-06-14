@@ -1,0 +1,10 @@
+tensorflow
+tensorflow-gpu
+tensorflow-cpu
+tensorflow-hub
+tfds-nightly
+numpy
+matplotlib
+seaborn
+pyyaml
+h5py
